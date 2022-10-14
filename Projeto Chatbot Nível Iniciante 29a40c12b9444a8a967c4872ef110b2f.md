@@ -2,8 +2,6 @@
 
 Status: Done
 
-# **Projeto Chatbot Nivel Iniciante**
-
 Esse projeto tem o intuito de demonstrar as habilidades de lógica de programação iniciais adquiridas para automatização, desenvolvendo  um chatbot em forma de estilo de menu de opções com esclarecimentos de algumas informações de forma personalizada sobre a empresa de consultoria e capacitação em Excel/VBA e Power BI utilizando a ferramenta python.  
 
 Propósito de automatizar algumas duvidas sobre uma empresa de Consultoria e Capacitação Excel/VBA e Power BI Capacitação empresarial Online ou Presencial que desenvolve habilidades para manuseio das ferramentas  excel e Power bi. 
