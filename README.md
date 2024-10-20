@@ -7,8 +7,8 @@ Sobre Mim
 
 Habilidades
 🔧 Aprendizado em:
- https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi
-          
+![image](https://github.com/user-attachments/assets/00e75b02-3905-445e-81c2-f53d1a3bac13)
+
           
 Contato
 📫 Você pode me contatar pelo e-mail: glauciocsilva@gmail.com
