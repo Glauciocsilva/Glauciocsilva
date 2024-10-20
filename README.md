@@ -12,8 +12,7 @@ Habilidades
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>  <a href="https://www.flaticon.com/br/icones-gratis/arquivo-microsoft-excel" title="arquivo-microsoft-excel ícones">Arquivo-microsoft-excel ícones criados por mpanicon - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/gallery" title="gallery icons">Gallery icons created by Freepik - Flaticon</a>          
-          
-
+</div>
 
           
 Contato
