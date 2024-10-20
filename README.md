@@ -7,9 +7,7 @@ Sobre Mim
 
 Habilidades
 🔧 Aprendizado em:
-
-<i class="devicon-azuresqldatabase-plain colored"></i>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />  https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi
+ https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi
           
           
 Contato
