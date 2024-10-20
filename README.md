@@ -10,9 +10,8 @@ Habilidades
 <div diisplay="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>  <a href="https://www.flaticon.com/br/icones-gratis/arquivo-microsoft-excel" title="arquivo-microsoft-excel ícones">Arquivo-microsoft-excel ícones criados por mpanicon - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/gallery" title="gallery icons">Gallery icons created by Freepik - Flaticon</a>          
-</div>
+<img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" loading="lazy" alt="excel " title="excel " width="50" height="50">          
+</div>  
 
           
 Contato
