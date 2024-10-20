@@ -10,9 +10,7 @@ Habilidades
 <div diisplay="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-![image](https://github.com/user-attachments/assets/3bdb81d3-1017-47d7-a4bc-d0c68bbd2f17)
-
-</div>   
+</div>   ![image](https://github.com/user-attachments/assets/3bdb81d3-1017-47d7-a4bc-d0c68bbd2f17)
           
           
 
